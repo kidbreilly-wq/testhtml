@@ -1,5 +1,6 @@
-body{
-    margin: 0px;
+body {
+    background-color: rgb(23, 27, 49);
+    margin: 0px
 }
 main{
     margin-left: 20px;
@@ -7,16 +8,18 @@ main{
 }
 h1{
     text-align: center;
+    color:white;
 
 }
 .navbar ul{
     list-style-type: none;
     background-color: rgb(36, 36, 36);
-    padding: 0px;
+    padding: 5px;
     margin: 0px;
     overflow: hidden;
 }
 .navbar a{
+    font-family:"Ink Free" , "Sans-serif";
     color: white;
     text-decoration: none;
     padding: 15px;
